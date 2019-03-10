@@ -1,0 +1,9 @@
+****************************************
+* 	       PARKINGTEL	       *
+* Rodrigo Casamayor <alu.89657@usj.es> *
+*				       *
+*  Programación Orientada a Objetos I  *
+****************************************
+
+Importante:
+. En Windows, cambiar todos los system("clear") por system("cls"). En macOS, para limpiar la consola se hace uso del comando "clear", pero en Windows el comando es distinto, es "cls".
